@@ -1,0 +1,1 @@
+simplest selenium test template
